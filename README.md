@@ -21,6 +21,13 @@ representations of usage trends, and category-specific suggestions tailored to e
 * User-friendly Navigation: The navigation bar contains clearly-labeled links that allows users to seamlessly access key sections of the site.
 * Sustainability Impact: Created to emplower individuals to monitor their daily carbon emissions and build more sustainable habits.
 
+### Technologies Used
+* HTML: Defines the structure of the web pages
+* CSS: Handles styling and layout adjustments
+* JavaScript: Adds interactivity and enables dynamic content updates
+* PHP: Server-side scripting used to connect the front end to the database
+* MySQL: Stores user-inputted data and predefined carbon emissions for each activity
+  
 ### Webpage Structure
 The website consts of seven sections, each build using PHP for to connect front-end with back-end:
 * Sign In Page
